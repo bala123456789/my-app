@@ -1,0 +1,16 @@
+.menu {
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+.menu li {
+    float: right;
+    margin-right: 10px;
+}
+img{
+    border-radius: 10px;
+}
+
+h1{
+    color: yellowgreen;
+}
